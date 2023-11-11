@@ -27,3 +27,8 @@ git log
 
 
 git checkout 3e2acf00e3810988ae6e06569a8c066bfcbf1309
+
+git branch
+git branch old
+
+git checkout master
