@@ -14,3 +14,11 @@ git status
 
 git add 1.txt
 git rm --cached 1.txt
+
+git add .
+
+
+
+
+git commit -m "initial commit"
+git log
