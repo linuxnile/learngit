@@ -36,3 +36,11 @@ git checkout master
 
 
 git checkout -b nilesh/3rdfile
+
+git checkout master
+git merge nilesh/3rdfile
+
+
+
+.gitignore =>
+secretkey.txt
