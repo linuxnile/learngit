@@ -70,3 +70,17 @@ git push
 git checkout old
 git push -u origin old
 
+
+
+
+
+
+// for collaborator invite
+your repo
+Settings
+Manage access
+Invite a collaborator (it will send pending invite)
+
+
+
+// Open source contribution
