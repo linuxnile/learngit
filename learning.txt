@@ -63,3 +63,10 @@ git add .
 git commit -m "Added one more file"
 
 git push
+
+
+
+
+git checkout old
+git push -u origin old
+
