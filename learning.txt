@@ -44,3 +44,22 @@ git merge nilesh/3rdfile
 
 .gitignore =>
 secretkey.txt
+
+
+
+
+
+
+-----------github---------------------
+
+git remote -v
+
+after github website repo 
+
+
+
+
+git add .
+git commit -m "Added one more file"
+
+git push
