@@ -1,0 +1,16 @@
+git config --global user.name "linux nile"
+git config --global user.email "linuxnile@gmail.com"
+
+git config --global user.name
+git config --global user.email
+
+git config --global --edit
+
+
+
+
+git init
+git status
+
+git add 1.txt
+git rm --cached 1.txt
